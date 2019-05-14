@@ -23,4 +23,9 @@ args = yargs.option('id', {
 .help()
 .argv;
 
-main.analytics(args.id, args.input, args.output || args.input);
+main({ 
+    id : args.id, 
+    input : args.input, 
+    output : args.output, 
+    bin : true 
+});
