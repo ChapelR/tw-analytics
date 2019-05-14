@@ -1,0 +1,29 @@
+{
+  "name": "tw-analytics",
+  "version": "0.1.0",
+  "description": "Add Google analytics to a Twine game from the command line or a node script.",
+  "main": "index.js",
+  "bin": {
+    "twga": "./bin/bin.js"
+  },
+  "files": [
+    "bin/**/*",
+    "lib/**/*",
+    "index.js"
+  ],
+  "dependencies": {
+    "fs-jetpack": "^2.2.2",
+    "twine-utils": "^1.2.6",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twine",
+    "twee"
+  ],
+  "author": "Chapel",
+  "license": "Unlicense"
+}
