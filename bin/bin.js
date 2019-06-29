@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+/* jshint node: true, esversion: 6 */
 
 const yargs = require('yargs'),
        main = require('../index.js');

@@ -1,3 +1,5 @@
+/* jshint node: true, esversion: 6 */
+
 const analytics = require('./lib/analytics.js');
 
 function handleSettings (opts) {
