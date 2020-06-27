@@ -12,7 +12,7 @@ Use the command `twga` to run it.
 
 `twga --id=UA-XXXX-Y -i index.html -o output.html`
 
-To use the CLI, you must provide your Google Analytics tracking ID using the `--id` option, and a source file via the `--input` (alias: `-i`) option. You may provide an output file path/name using the `--output` (alias: `-o`) option. If you don't provide an output file, the program will overwrite the input file with the new version with the tracking scripts added.
+To use the CLI, you must provide your Google Analytics tracking ID using the `--id` option, and a source file via the `--input` (alias: `-i`) option. You may provide an output file path/name using the `--output` (alias: `-o`) option. If you don't provide an output file, the program will overwrite the input file with the new version with the tracking scripts added. 
 
 To see some command and option help, use `--help`. To check the version, `--version`.
 

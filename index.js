@@ -17,7 +17,7 @@ function handleSettings (opts) {
         settings.input = './index.html';
     }
     if (!settings.output || typeof settings.output !== 'string') {
-        settings.output = setting.input;
+        settings.output = settings.input;
     }
 
     return settings;
