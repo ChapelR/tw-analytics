@@ -32,5 +32,17 @@
     "twee"
   ],
   "author": "Chapel",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChapelR/tw-analytics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChapelR/tw-analytics/issues"
+  },
+  "homepage": "https://github.com/ChapelR/tw-analytics#readme"
 }
