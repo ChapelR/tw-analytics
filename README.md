@@ -1,5 +1,7 @@
 ## tw-analytics
 
+![](https://travis-ci.org/ChapelR/tw-analytics.svg?branch=master)
+
 Add Google analytics tracking to your Twine game (or other web app).
 
 ### Installation (CLI)
