@@ -1,6 +1,6 @@
 ## tw-analytics
 
-![](https://travis-ci.org/ChapelR/tw-analytics.svg?branch=master)[![Coverage Status](https://coveralls.io/repos/github/ChapelR/tw-analytics/badge.svg?branch=master)](https://coveralls.io/github/ChapelR/tw-analytics?branch=master)
+![](https://travis-ci.org/ChapelR/tw-analytics.svg?branch=master) [![Coverage Status](https://coveralls.io/repos/github/ChapelR/tw-analytics/badge.svg?branch=master)](https://coveralls.io/github/ChapelR/tw-analytics?branch=master)
 
 Add Google analytics tracking to your Twine game (or other web app).
 
