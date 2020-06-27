@@ -1,7 +1,7 @@
 {
   "name": "tw-analytics",
   "version": "0.1.0",
-  "description": "Add Google analytics to a Twine game from the command line or a node script.",
+  "description": "Add Google analytics to a Twine game from the command line or a script.",
   "main": "index.js",
   "bin": {
     "twga": "./bin/bin.js"
