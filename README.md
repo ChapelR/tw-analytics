@@ -4,6 +4,8 @@
 
 Add Google analytics tracking to your Twine game (or other web app).
 
+[Newbie User Guide (originally by Somnium)](https://gist.github.com/ChapelR/690c89fd8349f3cf465a04a6de226666#file-readme-md)
+
 ### Installation (CLI)
 
 Install via NPM: `npm install --global tw-analytics`.
